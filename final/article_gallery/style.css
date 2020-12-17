@@ -10,6 +10,7 @@ button {
   cursor: pointer;
   font-family: 'Bentham', serif;
   font-style: italic;
+  border-radius: 50%;
 }
 
 
