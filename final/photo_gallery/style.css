@@ -1,18 +1,50 @@
 img {
     width: 30%;
-  
+
+    border-width: 10vw;
     
 }
-
-header{
-
-    margin-bottom: 10vw;
+html {
+  font-family: 'Bentham', serif;
+  font-style: italic;
+  color: rgb(11, 59, 11);
+  background-color: rgb(247, 239, 239);
 }
 
-.container{
+header {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Bentham', serif;
+    font-style: italic;
+    color: rgb(4, 37, 4);
+}
+
+.main.container {
  
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-   
+
+margin-left: auto;
+margin-right: auto;
+
+    
 }
+small.container {
+
+  column-fill: balance;
+
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+ 
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
