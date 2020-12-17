@@ -1,6 +1,5 @@
 img {
     width: 30%;
-
     border-width: 10vw;
     
 }
@@ -16,7 +15,7 @@ button {
   border-radius: none;
   font-family: 'Bentham', serif;
   font-style: italic;
-  border-radius: 50%;
+
   
   
 }
