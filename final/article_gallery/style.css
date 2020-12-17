@@ -1,20 +1,19 @@
 
 
 
-button {
-  background-color: rgb(165, 63, 63);
-  border-radius: none;
-  color: white;
-  padding: 12px 16px;
-  font-size: 20px;
-  cursor: pointer;
-  font-family: 'Bentham', serif;
+.btn {
+    background-color:  rgb(165, 63, 63);
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Bentham', serif;
   font-style: italic;
-  border-radius: 50%;
-}
+  }
+  
 
-
-button:hover {
+.btn:hover {
   background-color: rgb(206, 80, 58);
 }
 html {
@@ -23,8 +22,8 @@ html {
 
 }
 .container {
-    background-color: rgb(242, 200, 175);
-    width: 75vw;
+    
+    width: 50vw;
     font-family: 'Bentham', serif;
     font-size: 20px;
   
