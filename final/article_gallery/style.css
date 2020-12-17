@@ -1,0 +1,40 @@
+
+html {
+    background-color: rgb(240, 208, 190);
+
+
+}
+.container{
+
+    width: 88vw;
+    font-family: 'Bentham', serif;
+    font-size: 20px;
+  
+    margin-left: 20px;
+}
+
+
+header{
+    color: brown;
+    font-size: 5vw;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Bentham', serif;
+}
+.article-title{
+font-size: 30px;
+color: brown;
+
+
+
+}
+.byline{
+    color: brown;
+    font-size: 20px;
+}
+
+.summary {
+
+    color: brown;
+}
