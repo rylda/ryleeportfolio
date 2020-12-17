@@ -1,19 +1,20 @@
 
 
 
-.btn {
-  background-color: brown;
-  border: none;
+button {
+  background-color: rgb(165, 63, 63);
+  border-radius: none;
   color: white;
   padding: 12px 16px;
-  font-size: 16px;
+  font-size: 20px;
   cursor: pointer;
-
+  font-family: 'Bentham', serif;
+  font-style: italic;
 }
 
 
-.btn:hover {
-  background-color: rgb(243, 191, 161);
+button:hover {
+  background-color: rgb(206, 80, 58);
 }
 html {
     background-color: rgb(240, 208, 190);
@@ -29,13 +30,7 @@ html {
     margin-left: 25px;
 }
 
-.headerb { 
-    
-    margin-top: 10px;
-    margin-bottom: 15px;
 
-
-}
 
 header {
     color: brown;
