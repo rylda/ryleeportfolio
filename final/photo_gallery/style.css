@@ -4,6 +4,24 @@ img {
     border-width: 10vw;
     
 }
+
+
+.btn {
+  background-color:rgb(4, 37, 4);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgb(247, 239, 239);
+}
+
+
+
 html {
   font-family: 'Bentham', serif;
   font-style: italic;
@@ -13,23 +31,16 @@ html {
 
 header {
     text-align: center;
-    font-size: 20px;
+    font-size: 3vw;
     font-family: 'Bentham', serif;
     font-style: italic;
     color: rgb(4, 37, 4);
-}
-
-.main.container {
- 
-
-margin-left: auto;
-margin-right: auto;
-
+  
     
 }
-small.container {
 
-  column-fill: balance;
+p {
+ font-size: 2vw;
 
 }
 .row {

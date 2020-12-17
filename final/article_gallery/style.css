@@ -8,6 +8,7 @@
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
+
 }
 
 /* Darker background on mouse-over */
@@ -20,20 +21,26 @@ html {
 
 }
 .container {
-    background-color: rgb(243, 191, 161);
-    width: 88vw;
+    background-color: rgb(242, 200, 175);
+    width: 75vw;
     font-family: 'Bentham', serif;
     font-size: 20px;
   
     margin-left: 25px;
 }
 
+.headerb { 
+    
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+
+}
 
 header {
     color: brown;
     font-size: 5vw;
-    margin-top: 10px;
-    margin-bottom: 15px;
+   
     text-align: center;
     font-family: 'Bentham', serif;
 }
